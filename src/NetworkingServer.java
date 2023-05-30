@@ -62,7 +62,7 @@ public class NetworkingServer {
                     break;
                 }
 
-            } catch (IOException ie) {
+            } catch (IOException ie){
             }
         }
     }
